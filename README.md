@@ -1,9 +1,9 @@
 # MaliceRP
 
-![preview]()
+![preview](https://github.com/YannisBnb/MaliceRP/blob/main/img/preview/Capture.JPG)
 
-![preview]()
+![preview](https://github.com/YannisBnb/MaliceRP/blob/main/img/preview/Capture2.JPG)
 
-![preview]()
+![preview](https://github.com/YannisBnb/MaliceRP/blob/main/img/preview/Capture3.JPG)
 
-![preview]()
+![preview](https://github.com/YannisBnb/MaliceRP/blob/main/img/preview/Capture4.JPG)
